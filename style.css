@@ -28,6 +28,7 @@ header {
 .video {
     border-radius: 20px;
 }
+
 /* /////////////////////////////////////////// */
 
 .titulo {
@@ -44,7 +45,7 @@ header {
 }
 
 .importante {
-    color: yellow
+    color: #7f24d4
 }
 
 .recomendações {
@@ -56,9 +57,10 @@ header {
 
 .chamada-filmes h2 {
     font-size: 40px;
-    color:#7f24d4;
+    color: #7f24d4;
 }
-.chamada-filmes{ 
+
+.chamada-filmes {
     padding-left: 20px;
     padding-right: 20px;
 }
